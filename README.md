@@ -2,7 +2,7 @@
 * I am Dimitris Pavlou
 * I am currently studying Electrical and Computer engineering , but I am focusing on the computer science and engineering sector of my school
 * I am passionate about machine learning , data science and mathematics
-* I am looking to further broadening my knowledge on said areas throuhg projects I am going to upload on various repositories on my account
+* I am looking to further broadening my knowledge on said areas through projects I am going to upload on various repositories on my account
 
 
 <!--
